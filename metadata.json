@@ -1,0 +1,6 @@
+{
+  "name": "M.R. Power Tools - Pichatur",
+  "description": "Agricultural machinery, power tools sales, daily tool rentals, and same-day motor rewinding & repair workshop in Pichatur, Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
